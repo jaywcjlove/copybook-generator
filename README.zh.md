@@ -10,7 +10,7 @@
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/devtutor/id6503953628" title="DevTutor AppStore"><img alt="DevTutor AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+    <a target="_blank" href="https://apps.apple.com/app/宝宝字帖/id6503953628" title="宝宝字帖 AppStore"><img alt="宝宝字帖 AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
     </a>
   </p>
 </div>

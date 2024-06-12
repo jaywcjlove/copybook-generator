@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Third party Guides",
+    "localizations": {
+      "zh": "第三方指南"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "30 Days of Swift", "url": "https://github.com/allenwong/30DaysofSwift" },
+      { "name": "About Swift", "url": "https://github.com/NicolaLancellotti-About/About-Swift" },
+      { "name": "Awesome Swift Education", "url": "https://github.com/hsavit1/Awesome-Swift-Education" },
+      { "name": "Conferences.digital", "url": "https://github.com/zagahr/Conferences.digital" },
+      { "name": "Hacking With Swift", "url": "https://www.hackingwithswift.com" },
+      { "name": "Ray Wenderlich Tutorials, Videos, Podcasts and books", "url": "https://www.kodeco.com" },
+      { "name": "Swift & SwiftUI Tutorials", "url": "https://janeshswift.com" },
+      { "name": "Swift Education", "url": "https://github.com/swifteducation" },
+      { "name": "swift-tips", "url": "https://github.com/vincent-pradeilles/swift-tips" },
+      { "name": "SwiftDoc", "url": "https://swiftdoc.org/" },
+      { "name": "SwiftGuide CN", "url": "https://github.com/ipader/SwiftGuide" },
+      { "name": "SwiftTips", "url": "https://github.com/JohnSundell/SwiftTips" },
+      { "name": "SwiftUI Example", "localizations": { "zh": "SwiftUI 示例" }, "url": "https://github.com/jaywcjlove/swiftui-example" },
+      { "name": "Swift Tutorial", "localizations": { "zh": "Swift 教程" }, "url": "https://github.com/jaywcjlove/swift-tutorial" }
+    ]
+  },
+  {
+    "name": "Routing",
+    "localizations": {
+      "zh": "路由"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Appz", "url": "https://github.com/SwiftKitz/Appz" },
+      { "name": "SwiftUI Navigation", "url": "https://github.com/pointfreeco/swiftui-navigation" },
+      { "name": "Crossroad", "url": "https://github.com/giginet/Crossroad" },
+      { "name": "LiteRoute", "url": "https://github.com/SpectralDragon/LiteRoute" },
+      { "name": "Linker", "url": "https://github.com/MaksimKurpa/Linker" },
+      { "name": "MonarchRouter", "url": "https://github.com/nikans/MonarchRouter" }
+    ]
+  },
+  {
+    "name": "App Store",
+    "localizations": {
+      "zh": "应用商店"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Apphud", "url": "https://github.com/apphud/ApphudSDK" },
+      { "name": "AppReview", "url": "https://github.com/mezhevikin/AppReview" },
+      { "name": "InAppPurchase", "url": "https://github.com/jinSasaki/InAppPurchase" },
+      { "name": "merchantkit", "url": "https://github.com/benjaminmayo/merchantkit" },
+      { "name": "SwiftyStoreKit", "url": "https://github.com/bizz84/SwiftyStoreKit" }
+    ]
+  },
+  {
+    "name": "Audio",
+    "localizations": {
+      "zh": "音频"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "AudioKit", "url": "https://github.com/audiokit/AudioKit" },
+      { "name": "AudioPlayer", "url": "https://github.com/delannoyk/AudioPlayer" },
+      { "name": "AudioPlayerSwift", "url": "https://github.com/tbaranes/AudioPlayerSwift" },
+      { "name": "Beethoven", "url": "https://github.com/vadymmarkov/Beethoven" },
+      { "name": "FDSoundActivatedRecorder", "url": "https://github.com/fulldecent/FDSoundActivatedRecorder" },
+      { "name": "FDWaveformView", "url": "https://github.com/fulldecent/FDWaveformView" },
+      { "name": "ModernAVPlayer", "url": "https://github.com/noreasonprojects/ModernAVPlayer" },
+      { "name": "MusicKit", "url": "https://github.com/vprtwn/MusicKit" },
+      { "name": "Soundable", "url": "https://github.com/ThXou/Soundable" },
+      { "name": "SwiftAudioPlayer", "url": "https://github.com/tanhakabir/SwiftAudioPlayer" },
+      { "name": "SwiftySound", "url": "https://github.com/adamcichy/SwiftySound" },
+      { "name": "voice-overlay-ios", "url": "https://github.com/algolia/voice-overlay-ios" }
+    ]
+  },
+  {
+    "name": "API",
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "GitHubAPI", "url": "https://github.com/serhii-londar/GithubAPI" },
+      { "name": "PXGoogleDirections", "url": "https://github.com/poulpix/PXGoogleDirections" },
+      { "name": "RandomUserSwift", "url": "https://github.com/dingwilson/RandomUserSwift" },
+      { "name": "reddift", "url": "https://github.com/sonsongithub/reddift" },
+      { "name": "Swifter Twitter", "url": "https://github.com/mattdonnelly/Swifter" },
+      { "name": "Swiftkube", "url": "https://github.com/swiftkube/client" },
+      { "name": "SwiftlySalesforce", "url": "https://github.com/mike4aday/SwiftlySalesforce" },
+      { "name": "SwiftyInsta", "url": "https://github.com/TheM4hd1/SwiftyInsta" }
+    ]
+  },
+  {
+    "name": "Animation",
+    "localizations": {
+      "zh": "动画"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Advance", "url": "https://github.com/timdonnelly/Advance" },
+      { "name": "ChainPageCollectionView", "url": "https://github.com/jindulys/ChainPageCollectionView" },
+      { "name": "CocoaSprings", "url": "https://github.com/MacPaw/CocoaSprings" },
+      { "name": "Comets", "url": "https://github.com/cruisediary/Comets" },
+      { "name": "Ease", "url": "https://github.com/roberthein/Ease" },
+      { "name": "EasyAnimation", "url": "https://github.com/icanzilb/EasyAnimation" },
+      { "name": "Elephant", "url": "https://github.com/s2mr/Elephant" },
+      { "name": "FlightAnimator", "url": "https://github.com/AntonTheDev/FlightAnimator" },
+      { "name": "Gemini", "url": "https://github.com/shoheiyokoyama/Gemini" },
+      { "name": "IBAnimatable", "url": "https://github.com/IBAnimatable/IBAnimatable" },
+      { "name": "Interpolate", "url": "https://github.com/marmelroy/Interpolate" },
+      { "name": "lottie-ios", "url": "https://github.com/airbnb/lottie-ios" },
+      { "name": "Pastel", "url": "https://github.com/cruisediary/Pastel" },
+      { "name": "Poi", "url": "https://github.com/HideakiTouhara/Poi" },
+      { "name": "Presentation", "url": "https://github.com/hyperoslo/Presentation" },
+      { "name": "Pulsator", "url": "https://github.com/shu223/pulsator" },
+      { "name": "Sica", "url": "https://github.com/cats-oss/Sica" },
+      { "name": "Spring", "url": "https://github.com/MengTo/Spring" },
+      { "name": "SpriteKitEasingSwift", "url": "https://github.com/craiggrummitt/SpriteKitEasingSwift" },
+      { "name": "spruce-ios", "url": "https://github.com/willowtreeapps/spruce-ios" },
+      { "name": "Stellar", "url": "https://github.com/AugustRush/Stellar" },
+      { "name": "TheAnimation", "url": "https://github.com/marty-suzuki/TheAnimation" },
+      { "name": "ViewAnimator", "url": "https://github.com/marcosgriselli/ViewAnimator" },
+      { "name": "YapAnimator", "url": "https://github.com/yapstudios/YapAnimator" }
+    ]
+  },
+  {
+    "name": "Algorithm",
+    "localizations": {
+      "zh": "算法"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Algorithm", "url": "https://github.com/CosmicMind/Algorithm" },
+      { "name": "BTree", "url": "https://github.com/attaswift/BTree" },
+      { "name": "swift-algorithm-club", "url": "https://github.com/kodecocodes/swift-algorithm-club" },
+      { "name": "SwiftLCS", "url": "https://github.com/Frugghi/SwiftLCS" }
+    ]
+  },
+  {
+    "name": "Bluetooth",
+    "localizations": {
+      "zh": "蓝牙"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+        { "name": "BlueCap", "url": "https://github.com/troystribling/BlueCap" },
+        { "name": "Bluejay", "url": "https://github.com/steamclock/bluejay" },
+        { "name": "BluetoothKit", "url": "https://github.com/rhummelmose/BluetoothKit" },
+        { "name": "RxBluetoothKit", "url": "https://github.com/polidea/RxBluetoothKit" },
+        { "name": "SwiftyBluetooth", "url": "https://github.com/jordanebelanger/SwiftyBluetooth" }
+    ]
+  },
+  {
+    "name": "Barcode",
+    "localizations": {
+      "zh": "条形码"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+        { "name": "BarcodeScanner", "url": "https://github.com/hyperoslo/BarcodeScanner" },
+        { "name": "EFQRCode", "url": "https://github.com/EFPrefix/EFQRCode" },
+        { "name": "QRCodeReader.swift", "url": "https://github.com/yannickl/QRCodeReader.swift" }
+    ]
+  },
+  {
+    "name": "Camera",
+    "localizations": {
+      "zh": "相机"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+        { "name": "CameraBackground", "url": "https://github.com/yonat/CameraBackground" },
+        { "name": "CameraKit-iOS", "url": "https://github.com/CameraKit/camerakit-ios" },
+        { "name": "FDTake", "url": "https://github.com/fulldecent/FDTake" },
+        { "name": "Fusuma", "url": "https://github.com/ytakzk/Fusuma" },
+        { "name": "MediaPicker", "url": "https://github.com/exyte/mediapicker" },
+        { "name": "NextLevel", "url": "https://github.com/NextLevel/NextLevel" }
+    ]
+  },
+  {
+    "name": "Device",
+    "localizations": {
+      "zh": "设备"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Device", "url": "https://github.com/Ekhoo/Device" },
+      { "name": "Device.swift", "url": "https://github.com/schickling/Device.swift" },
+      { "name": "DeviceKit", "url": "https://github.com/devicekit/DeviceKit" },
+      { "name": "Deviice", "url": "https://github.com/andrealufino/Deviice" },
+      { "name": "Luminous", "url": "https://github.com/andrealufino/Luminous" },
+      { "name": "Thingy", "url": "https://github.com/bojan/Thingy" },
+      { "name": "UIDeviceComplete", "url": "https://github.com/Nirma/UIDeviceComplete" }
+    ]
+  },
+  {
+    "name": "Text",
+    "localizations": {
+      "zh": "文本"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Attributed", "url": "https://github.com/Nirma/Attributed" },
+      { "name": "AttributedTextView", "url": "https://github.com/evermeer/AttributedTextView" },
+      { "name": "BonMot", "url": "https://github.com/Rightpoint/BonMot" },
+      { "name": "Croc", "url": "https://github.com/JKalash/Croc" },
+      { "name": "edhita", "url": "https://github.com/tnantoka/edhita" },
+      { "name": "MarkdownKit", "url": "https://github.com/bmoliveira/MarkdownKit" },
+      { "name": "MarkdownView", "url": "https://github.com/keitaoouchi/MarkdownView" },
+      { "name": "MarkyMark", "url": "https://github.com/M2Mobi/Marky-Mark" },
+      { "name": "Notepad", "url": "https://github.com/ruddfawcett/Notepad" },
+      { "name": "OEMentions", "url": "https://github.com/omar14/OEMentions" },
+      { "name": "Parsey", "url": "https://github.com/rxwei/Parsey" },
+      { "name": "Pluralize.swift", "url": "https://github.com/joshualat/Pluralize.swift" },
+      { "name": "PredicateFlow", "url": "https://github.com/andreadelfante/PredicateFlow" },
+      { "name": "PrediKit", "url": "https://github.com/KrakenDev/PrediKit" },
+      { "name": "Regex by crossroadlabs", "url": "https://github.com/crossroadlabs/Regex" },
+      { "name": "Regex by sindresorhus", "url": "https://github.com/sindresorhus/Regex" },
+      { "name": "RichEditorView", "url": "https://github.com/cjwirth/RichEditorView" },
+      { "name": "Sprinter", "url": "https://github.com/nicklockwood/Sprinter" },
+      { "name": "SwiftRichString", "url": "https://github.com/malcommac/SwiftRichString" },
+      { "name": "SwiftVerbalExpressions", "url": "https://github.com/VerbalExpressions/SwiftVerbalExpressions" },
+      { "name": "SwiftyAttributes", "url": "https://github.com/eddiekaiger/SwiftyAttributes" },
+      { "name": "Tagging", "url": "https://github.com/k-lpmg/Tagging" },
+      { "name": "Texstyle", "url": "https://github.com/rosberry/texstyle" },
+      { "name": "TextAttributes", "url": "https://github.com/delba/TextAttributes" },
+      { "name": "TextBuilder", "url": "https://github.com/davdroman/TextBuilder" },
+      { "name": "TwitterTextEditor", "url": "https://github.com/twitter/TwitterTextEditor" },
+      { "name": "VEditorKit", "url": "https://github.com/GeekTree0101/VEditorKit" }
+    ]
+  },
+  {
+    "name": "Images",
+    "localizations": {
+      "zh": "图片"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Agrume", "url": "https://github.com/JanGorman/Agrume" },
+      { "name": "AlamofireImage", "url": "https://github.com/Alamofire/AlamofireImage" },
+      { "name": "APNGKit", "url": "https://github.com/onevcat/APNGKit" },
+      { "name": "ATGMediaBrowser", "url": "https://github.com/altayer-digital/ATGMediaBrowser" },
+      { "name": "AXPhotoViewer", "url": "https://github.com/alexhillc/AXPhotoViewer" },
+      { "name": "BlockiesSwift", "url": "https://github.com/Boilertalk/BlockiesSwift" },
+      { "name": "Brightroom", "url": "https://github.com/muukii/Brightroom" },
+      { "name": "CTPanoramaView", "url": "https://github.com/scihant/CTPanoramaView" },
+      { "name": "DTPhotoViewerController", "url": "https://github.com/tungvoduc/DTPhotoViewerController" },
+      { "name": "FacebookImagePicker", "url": "https://github.com/floriangbh/FacebookImagePicker" },
+      { "name": "FaceCrop", "url": "https://github.com/Ancestry/FaceCrop" },
+      { "name": "FlexibleImage", "url": "https://github.com/kawoou/FlexibleImage" },
+      { "name": "FMPhotoPicker", "url": "https://github.com/congnd/FMPhotoPicker" },
+      { "name": "gifu", "url": "https://github.com/kaishin/gifu" },
+      { "name": "GPUImage 2", "url": "https://github.com/BradLarson/GPUImage2" },
+      { "name": "GPUImage 3", "url": "https://github.com/BradLarson/GPUImage3" },
+      { "name": "HanekeSwift", "url": "https://github.com/Haneke/HanekeSwift" },
+      { "name": "Harbeth", "url": "https://github.com/yangKJ/Harbeth" },
+      { "name": "ImageDetect", "url": "https://github.com/Feghal/ImageDetect" },
+      { "name": "ImageLoader", "url": "https://github.com/hirohisa/ImageLoaderSwift" },
+      { "name": "ImageScout", "url": "https://github.com/kaishin/ImageScout" },
+      { "name": "ImageViewer", "url": "https://github.com/Krisiacik/ImageViewer" },
+      { "name": "ImgixSwift", "url": "https://github.com/imgix/imgix-swift" },
+      { "name": "JLStickerTextView", "url": "https://github.com/Textcat/JLStickerTextView" },
+      { "name": "Kanvas", "url": "https://github.com/tumblr/kanvas-ios" },
+      { "name": "Kingfisher", "url": "https://github.com/onevcat/Kingfisher" },
+      { "name": "LetterAvatarKit", "url": "https://github.com/vpeschenkov/LetterAvatarKit" },
+      { "name": "Lightbox", "url": "https://github.com/hyperoslo/Lightbox" },
+      { "name": "MapleBacon", "url": "https://github.com/JanGorman/MapleBacon" },
+      { "name": "MCScratchImageView", "url": "https://github.com/Minecodecraft/MCScratchImageView" },
+      { "name": "Moa", "url": "https://github.com/evgenyneu/moa" },
+      { "name": "Nuke", "url": "https://github.com/kean/Nuke" },
+      { "name": "PassportScanner", "url": "https://github.com/evermeer/PassportScanner" },
+      { "name": "Rough", "url": "https://github.com/bakhtiyork/Rough" },
+      { "name": "Sharaku", "url": "https://github.com/makomori/Sharaku" },
+      { "name": "Snowflake", "url": "https://github.com/onmyway133/Snowflake" },
+      { "name": "SwiftDraw", "url": "https://github.com/swhitty/SwiftDraw" },
+      { "name": "SwiftGen-Assets", "url": "https://github.com/SwiftGen/SwiftGen#assets-catalogs" },
+      { "name": "SwiftSVG", "url": "https://github.com/mchoe/SwiftSVG" },
+      { "name": "SwiftWebImage", "url": "https://github.com/geekaurora/SwiftWebImage" },
+      { "name": "SwiftyGif", "url": "https://github.com/kirualex/SwiftyGif" },
+      { "name": "TinyCrayon", "url": "https://github.com/TinyCrayon/TinyCrayon-iOS-SDK" },
+      { "name": "Toucan", "url": "https://github.com/gavinbunney/Toucan" },
+      { "name": "UIImageColors", "url": "https://github.com/jathu/UIImageColors" },
+      { "name": "YPImagePicker", "url": "https://github.com/Yummypets/YPImagePicker" },
+      { "name": "ZImageCropper", "url": "https://github.com/ZaidPathan/ZImageCropper" }
+    ]
+  },
+  {
+    "name": "Menu",
+    "localizations": {
+      "zh": "菜单"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "AKSwiftSlideMenu", "url": "https://github.com/ashishkakkad8/AKSwiftSlideMenu" },
+      { "name": "CircleMenu", "url": "https://github.com/Ramotion/circle-menu" },
+      { "name": "ENSwiftSideMenu", "url": "https://github.com/evnaz/ENSwiftSideMenu" },
+      { "name": "FanMenu", "url": "https://github.com/exyte/fan-menu" },
+      { "name": "FlowingMenu", "url": "https://github.com/yannickl/FlowingMenu" },
+      { "name": "GuillotineMenu", "url": "https://github.com/Yalantis/GuillotineMenu" },
+      { "name": "HHFloatingView", "url": "https://github.com/hemangshah/HHFloatingView" },
+      { "name": "InteractiveSideMenu", "url": "https://github.com/handsomecode/InteractiveSideMenu" },
+      { "name": "KWDrawerController", "url": "https://github.com/Kawoou/KWDrawerController" },
+      { "name": "MenuItemKit", "url": "https://github.com/cxa/MenuItemKit" },
+      { "name": "Pagemenu", "url": "https://github.com/PageMenu/PageMenu" },
+      { "name": "PagingKit", "url": "https://github.com/kazuhiro4949/PagingKit" },
+      { "name": "Panels", "url": "https://github.com/antoniocasero/Panels" },
+      { "name": "Parchment", "url": "https://github.com/rechsteiner/Parchment" },
+      { "name": "PopMenu", "url": "https://github.com/CaliCastle/PopMenu" },
+      { "name": "SideMenu", "url": "https://github.com/jonkykong/SideMenu" },
+      { "name": "SlideMenuControllerSwift", "url": "https://github.com/dekatotoro/SlideMenuControllerSwift" },
+      { "name": "SwipeMenuViewController", "url": "https://github.com/yysskk/SwipeMenuViewController" },
+      { "name": "XLPagerTabStrip", "url": "https://github.com/xmartlabs/XLPagerTabStrip" },
+      { "name": "YNDropDownMenu", "url": "https://github.com/younatics/YNDropDownMenu" }
+    ]
+  },
+  {
+    "name": "Calendar",
+    "localizations": {
+      "zh": "日历"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "CalendarKit", "url": "https://github.com/richardtop/CalendarKit" },
+      { "name": "CalendarView", "url": "https://github.com/mmick66/CalendarView" },
+      { "name": "DateTimePicker", "url": "https://github.com/itsmeichigo/DateTimePicker" },
+      { "name": "ElegantCalendar", "url": "https://github.com/ThasianX/ElegantCalendar" },
+      { "name": "HorizonCalendar", "url": "https://github.com/airbnb/HorizonCalendar" },
+      { "name": "JTAppleCalendar", "url": "https://github.com/patchthecode/JTAppleCalendar" },
+      { "name": "KVKCalendar", "url": "https://github.com/kvyatkovskys/KVKCalendar" },
+      { "name": "Workaholic", "url": "https://github.com/hemangshah/Workaholic" }
+    ]
+  },
+  {
+    "name": "Events",
+    "localizations": {
+      "zh": "事件"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+
+      { "name": "Bond", "url": "https://github.com/DeclarativeHub/Bond" },
+      { "name": "Combinative", "url": "https://github.com/noppefoxwolf/Combinative" },
+      { "name": "EmitterKit", "url": "https://github.com/aleclarson/emitter-kit" },
+      { "name": "FutureKit", "url": "https://github.com/FutureKit/FutureKit" },
+      { "name": "Katana", "url": "https://github.com/BendingSpoons/katana-swift" },
+      { "name": "LightweightObservable", "url": "https://github.com/fxm90/LightweightObservable" },
+      { "name": "NoticeObserveKit", "url": "https://github.com/marty-suzuki/NoticeObserveKit" },
+      { "name": "Notificationz", "url": "https://github.com/SwiftKitz/Notificationz" },
+      { "name": "Observable", "url": "https://github.com/roberthein/Observable" },
+      { "name": "OneWay", "url": "https://github.com/DevYeom/OneWay" },
+      { "name": "OpenCombine", "url": "https://github.com/OpenCombine/OpenCombine" },
+      { "name": "PMKVObserver", "url": "https://github.com/postmates/PMKVObserver/" },
+      { "name": "PromiseKit", "url": "https://github.com/mxcl/PromiseKit" },
+      { "name": "ReactiveCocoa", "url": "https://github.com/ReactiveCocoa/ReactiveCocoa" },
+      { "name": "ReactorKit", "url": "https://github.com/ReactorKit/ReactorKit" },
+      { "name": "ReSwift", "url": "https://github.com/ReSwift/ReSwift" },
+      { "name": "RxSwift", "url": "https://github.com/ReactiveX/RxSwift" },
+      { "name": "Signals", "url": "https://github.com/artman/Signals" },
+      { "name": "SwiftEventBus", "url": "https://github.com/cesarferreira/SwiftEventBus" },
+      { "name": "Tempura", "url": "https://github.com/BendingSpoons/tempura-swift" },
+      { "name": "Tokamak", "url": "https://github.com/TokamakUI/Tokamak" },
+      { "name": "Tomorrowland", "url": "https://github.com/lilyball/Tomorrowland" },
+      { "name": "TopicEventBus", "url": "https://github.com/mcmatan/topicEventBus" },
+      { "name": "VueFlux", "url": "https://github.com/ra1028/VueFlux" },
+      { "name": "When", "url": "https://github.com/vadymmarkov/When" }
+    ]
+  },
+  {
+    "name": "System",
+    "localizations": {
+      "zh": "系统"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "BlueSignals", "url": "https://github.com/Kitura/BlueSignals" },
+      { "name": "LaunchAtLogin", "url": "https://github.com/sindresorhus/LaunchAtLogin" },
+      { "name": "SystemKit", "url": "https://github.com/beltex/SystemKit/" }
+    ]
+  },
+  {
+    "name": "UI",
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "ActivityIndicatorView", "url": "https://github.com/exyte/ActivityIndicatorView" },
+      { "name": "AECoreDataUI", "url": "https://github.com/tadija/AERecord" },
+      { "name": "AGCircularPicker", "url": "https://github.com/agilie/AGCircularPicker" },
+      { "name": "AMScrollingNavbar", "url": "https://github.com/andreamazz/AMScrollingNavbar" },
+      { "name": "Arale", "url": "https://github.com/supercomputra/Arale" },
+      { "name": "BadgeHub", "url": "https://github.com/jogendra/BadgeHub" },
+      { "name": "BatteryView", "url": "https://github.com/yonat/BatteryView" },
+      { "name": "BetterSafariView", "url": "https://github.com/stleamist/BetterSafariView" },
+      { "name": "BottomSheet", "url": "https://github.com/joomcode/BottomSheet" },
+      { "name": "BreakOutToRefresh", "url": "https://github.com/dasdom/BreakOutToRefresh" },
+      { "name": "BulletinBoard", "url": "https://github.com/alexisakers/BulletinBoard" },
+      { "name": "CapturePreventionKit", "url": "https://github.com/Jaesung-Jung/CapturePreventionKit" },
+      { "name": "CircularProgress", "url": "https://github.com/sindresorhus/CircularProgress" },
+      { "name": "ClassicKit", "url": "https://github.com/Baddaboo/ClassicKit" },
+      { "name": "ContainerController", "url": "https://github.com/mrustaa/ContainerController" },
+      { "name": "CountryPickerView", "url": "https://github.com/kizitonwose/CountryPickerView" },
+      { "name": "CustomSegue", "url": "https://github.com/phimage/CustomSegue" },
+      { "name": "DeckTransition", "url": "https://github.com/HarshilShah/DeckTransition" },
+      { "name": "DockProgress", "url": "https://github.com/sindresorhus/DockProgress" },
+      { "name": "Dodo", "url": "https://github.com/evgenyneu/Dodo" },
+      { "name": "Doric Design System Foundation", "url": "https://github.com/jayeshk/Doric" },
+      { "name": "DropDown", "url": "https://github.com/AssistoLab/DropDown" },
+      { "name": "Elissa", "url": "https://github.com/KitchenStories/Elissa" },
+      { "name": "EstMusicIndicator", "url": "https://github.com/Aufree/ESTMusicIndicator" },
+      { "name": "Family", "url": "https://github.com/zenangst/Family" },
+      { "name": "FAQView", "url": "https://github.com/mukeshthawani/faqview" },
+      { "name": "Fashion", "url": "https://github.com/vadymmarkov/Fashion" },
+      { "name": "FlagKit", "url": "https://github.com/madebybowtie/FlagKit" },
+      { "name": "FlexibleHeader", "url": "https://github.com/k-lpmg/FlexibleHeader" },
+      { "name": "FloatRatingView", "url": "https://github.com/glenyi/FloatRatingView" },
+      { "name": "Fluid Slider", "url": "https://github.com/Ramotion/fluid-slider" },
+      { "name": "GaugeKit", "url": "https://github.com/skywinder/GaugeKit" },
+      { "name": "GMStepper", "url": "https://github.com/gmertk/GMStepper" },
+      { "name": "GradientProgressBar", "url": "https://github.com/fxm90/GradientProgressBar" },
+      { "name": "GRMustache", "url": "https://github.com/groue/GRMustache.swift" },
+      { "name": "GrowingTextView", "url": "https://github.com/KennethTsang/GrowingTextView" },
+      { "name": "HGCircularSlider", "url": "https://github.com/HamzaGhazouani/HGCircularSlider" },
+      { "name": "HidesNavigationBarWhenPushed", "url": "https://github.com/gontovnik/HidesNavigationBarWhenPushed" },
+      { "name": "HorizontalDial", "url": "https://github.com/kciter/HorizontalDial" },
+      { "name": "HPParallaxHeader", "url": "https://github.com/ngochiencse/HPParallaxHeader" },
+      { "name": "IGColorPicker", "url": "https://github.com/iGenius-Srl/IGColorPicker" },
+      { "name": "InstantSearch iOS", "url": "https://github.com/algolia/instantsearch-ios" },
+      { "name": "KALoader", "url": "https://github.com/Kirillzzy/KALoader" },
+      { "name": "KMNavigationBarTransition", "url": "https://github.com/MoZhouqi/KMNavigationBarTransition" },
+      { "name": "KMPlaceholderTextView", "url": "https://github.com/MoZhouqi/KMPlaceholderTextView" },
+      { "name": "LeeGo", "url": "https://github.com/wangshengjia/LeeGo" },
+      { "name": "LicensePlist", "url": "https://github.com/mono0926/LicensePlist" },
+      { "name": "LiquidLoader", "url": "https://github.com/yoavlt/LiquidLoader" },
+      { "name": "LoadingShimmer", "url": "https://github.com/jogendra/LoadingShimmer" },
+      { "name": "Macaw", "url": "https://github.com/exyte/macaw" },
+      { "name": "Magnetic", "url": "https://github.com/efremidze/Magnetic" },
+      { "name": "Mandoline", "url": "https://github.com/blueapron/Mandoline" },
+      { "name": "MantleModal", "url": "https://github.com/canalesb93/MantleModal" },
+      { "name": "Material", "url": "https://github.com/CosmicMind/Material" },
+      { "name": "Material Components for iOS", "url": "https://github.com/material-components/material-components-ios" },
+      { "name": "MaterialKit", "url": "https://github.com/nghialv/MaterialKit" },
+      { "name": "MediaBrowser", "url": "https://github.com/younatics/MediaBrowser" },
+      { "name": "MPParallaxView", "url": "https://github.com/DroidsOnRoids/MPParallaxView" },
+      { "name": "MultiSelectSegmentedControl", "url": "https://github.com/yonat/MultiSelectSegmentedControl" },
+      { "name": "MultiSlider", "url": "https://github.com/yonat/MultiSlider" },
+      { "name": "MXParallaxHeader", "url": "https://github.com/maxep/MXParallaxHeader" },
+      { "name": "MZFormSheetPresentationController", "url": "https://github.com/m1entus/MZFormSheetPresentationController" },
+      { "name": "NeumorphismKit", "url": "https://github.com/y-okudera/NeumorphismKit" },
+      { "name": "NextGrowingTextView", "url": "https://github.com/FluidGroup/NextGrowingTextView" },
+      { "name": "NVActivityIndicatorView", "url": "https://github.com/ninjaprox/NVActivityIndicatorView" },
+      { "name": "OverlayContainer", "url": "https://github.com/applidium/OverlayContainer" },
+      { "name": "Partition Kit", "url": "https://github.com/kieranb662/PartitionKit" },
+      { "name": "Popovers", "url": "https://github.com/aheze/Popovers" },
+      { "name": "Preferences", "url": "https://github.com/sindresorhus/Preferences" },
+      { "name": "ProgressIndicatorView", "url": "https://github.com/exyte/ProgressIndicatorView" },
+      { "name": "PullToDismiss", "url": "https://github.com/sgr-ksmt/PullToDismiss" },
+      { "name": "RangeSeekSlider", "url": "https://github.com/WorldDownTown/RangeSeekSlider" },
+      { "name": "Reel search", "url": "https://github.com/Ramotion/reel-search" },
+      { "name": "ResizingTokenField", "url": "https://github.com/tadejr/ResizingTokenField" },
+      { "name": "RetroProgress", "url": "https://github.com/hyperoslo/RetroProgress" },
+      { "name": "SectionedSlider", "url": "https://github.com/LeonardoCardoso/SectionedSlider" },
+      { "name": "SelectionDialog", "url": "https://github.com/kciter/SelectionDialog" },
+      { "name": "ShadowView", "url": "https://github.com/PierrePerrin/ShadowView" },
+      { "name": "Shiny", "url": "https://github.com/efremidze/Shiny" },
+      { "name": "ShowSomeProgress", "url": "https://github.com/stoneburner/ShowSomeProgress" },
+      { "name": "SkeletonView", "url": "https://github.com/Juanpe/SkeletonView" },
+      { "name": "SKPhotoBrowser", "url": "https://github.com/suzuki-0000/SKPhotoBrowser" },
+      { "name": "Spots", "url": "https://github.com/hyperoslo" },
+      { "name": "SpreadsheetView", "url": "https://github.com/kishikawakatsumi/SpreadsheetView" },
+      { "name": "StarryStars", "url": "https://github.com/peterprokop/StarryStars" },
+      { "name": "StatefulViewController", "url": "https://github.com/aschuch/StatefulViewController" },
+      { "name": "StepProgressView", "url": "https://github.com/yonat/StepProgressView" },
+      { "name": "SweetCurtain", "url": "https://github.com/multimediasuite/SweetCurtain" },
+      { "name": "SwiftyUI", "url": "https://github.com/haoking/SwiftyUI" },
+      { "name": "TagListView", "url": "https://github.com/ElaWorkshop/TagListView" },
+      { "name": "Toaster", "url": "https://github.com/devxoul/Toaster" },
+      { "name": "Twinkle", "url": "https://github.com/piemonte/Twinkle" },
+      { "name": "UIPheonix", "url": "https://github.com/MKGitHub/UIPheonix" },
+      { "name": "UltraDrawerView", "url": "https://github.com/super-ultra/UltraDrawerView" },
+      { "name": "URLEmbeddedView", "url": "https://github.com/marty-suzuki/URLEmbeddedView" },
+      { "name": "Wallet", "url": "https://github.com/russ-stamant/Wallet" },
+      { "name": "Windless", "url": "https://github.com/ParkGwangBeom/Windless" },
+      { "name": "WSTagsField", "url": "https://github.com/whitesmith/WSTagsField" },
+      { "name": "YMTreeMap", "url": "https://github.com/yahoo/YMTreeMap" },
+      { "name": "YNSearch", "url": "https://github.com/younatics/YNSearch" }
+    ]
+  },
+  {
+    "name": "Maps",
+    "localizations": {
+      "zh": "地图"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Cluster", "url": "https://github.com/efremidze/Cluster" },
+      { "name": "FlyoverKit", "url": "https://github.com/SvenTiigi/FlyoverKit" },
+      { "name": "GEOSwift", "url": "https://github.com/GEOSwift/GEOSwift" },
+      { "name": "LocoKit", "url": "https://github.com/sobri909/LocoKit" }
+    ]
+  },
+  {
+    "name": "Keyboard",
+    "localizations": {
+      "zh": "键盘"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "IHKeyboardAvoiding", "url": "https://github.com/IdleHandsApps/IHKeyboardAvoiding" },
+      { "name": "IQKeyboardManager", "url": "https://github.com/hackiftekhar/IQKeyboardManager" },
+      { "name": "ISEmojiView", "url": "https://github.com/isaced/ISEmojiView" },
+      { "name": "KeyboardHideManager", "url": "https://github.com/bonyadmitr/KeyboardHideManager" },
+      { "name": "KeyboardShortcuts", "url": "https://github.com/sindresorhus/KeyboardShortcuts" },
+      { "name": "Ribbon", "url": "https://github.com/chriszielinski/Ribbon" },
+      { "name": "Typist", "url": "https://github.com/totocaster/Typist" }
+    ]
+  },
+  {
+    "name": "Network",
+    "localizations": {
+      "zh": "网络"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Alamofire", "url": "https://github.com/Alamofire/Alamofire" },
+      { "name": "APIKit", "url": "https://github.com/ishkawa/APIKit" },
+      { "name": "Ciao", "url": "https://github.com/AlTavares/Ciao" },
+      { "name": "CodyFire", "url": "https://github.com/CodyFlame/CodyFire" },
+      { "name": "Conduit", "url": "https://github.com/mindbody/Conduit" },
+      { "name": "Connectivity", "url": "https://github.com/rwbutler/Connectivity" },
+      { "name": "Dots", "url": "https://github.com/iAmrSalman/Dots" },
+      { "name": "GoodNetworking", "url": "https://github.com/GoodRequest/GoodNetworking" },
+      { "name": "Heimdallr.swift", "url": "https://github.com/trivago/Heimdallr.swift" },
+      { "name": "Just", "url": "https://github.com/dduan/Just" },
+      { "name": "Malibu", "url": "https://github.com/hyperoslo/Malibu" },
+      { "name": "Moya", "url": "https://github.com/Moya/Moya" },
+      { "name": "MultiPeer", "url": "https://github.com/dingwilson/MultiPeer" },
+      { "name": "Netfox", "url": "https://github.com/kasketis/netfox" },
+      { "name": "Netswift", "url": "https://github.com/MrSkwiggs/Netswift" },
+      { "name": "OAuth2", "url": "https://github.com/p2/OAuth2" },
+      { "name": "OAuthSwift", "url": "https://github.com/OAuthSwift/OAuthSwift" },
+      { "name": "Pitaya", "url": "https://github.com/johnlui/Pitaya" },
+      { "name": "PMHTTP", "url": "https://github.com/postmates/PMHTTP" },
+      { "name": "Postal", "url": "https://github.com/snipsco/Postal" },
+      { "name": "Reachability.swift", "url": "https://github.com/ashleymills/Reachability.swift" },
+      { "name": "ReactiveAPI", "url": "https://github.com/sky-uk/ReactiveAPI" },
+      { "name": "ResponseDetective", "url": "https://github.com/netguru/ResponseDetective" },
+      { "name": "RxNetworks", "url": "https://github.com/yangKJ/RxNetworks" },
+      { "name": "ShadowsocksX-NG", "url": "https://github.com/shadowsocks/ShadowsocksX-NG" },
+      { "name": "Siesta", "url": "https://bustoutsolutions.github.io/siesta/" },
+      { "name": "SolarNetwork", "url": "https://github.com/ThreeGayHub/SolarNetwork" },
+      { "name": "SwiftHTTP", "url": "https://github.com/daltoniam/SwiftHTTP" },
+      { "name": "SwiftyOAuth", "url": "https://github.com/delba/SwiftyOAuth" },
+      { "name": "TermiNetwork", "url": "https://github.com/billp/TermiNetwork" },
+      { "name": "TRON", "url": "https://github.com/MLSDev/TRON" },
+      { "name": "Wormholy", "url": "https://github.com/pmusolino/Wormholy" }
+    ]
+  },
+  {
+    "name": "Misc",
+    "localizations": {
+      "zh": "杂项"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Beak", "url": "https://github.com/yonaskolb/Beak" },
+      { "name": "BetterCodable", "url": "https://github.com/marksands/BetterCodableDecoder" },
+      { "name": "CodableWrappers", "url": "https://github.com/GottaGetSwifty/CodableWrappers" },
+      { "name": "Fugen", "url": "https://github.com/almazrafi/Fugen" },
+      { "name": "MemberwiseInit", "url": "https://github.com/gohanlon/swift-memberwise-init-macro" },
+      { "name": "Model2App", "url": "https://github.com/Q-Mobile/Model2App" },
+      { "name": "Surmagic", "url": "https://github.com/gurhub/surmagic" },
+      { "name": "SwagGen", "url": "https://github.com/yonaskolb/SwagGen" },
+      { "name": "Swiftbrew", "url": "https://github.com/swiftbrew/Swiftbrew" },
+      { "name": "SwiftGen", "url": "https://github.com/SwiftGen/SwiftGen" },
+      { "name": "SwiftKit", "url": "https://github.com/SvenTiigi/SwiftKit" },
+      { "name": "SwiftPlate", "url": "https://github.com/JohnSundell/SwiftPlate" },
+      { "name": "Toybox", "url": "https://github.com/giginet/Toybox" },
+      { "name": "Tuist", "url": "https://github.com/tuist/tuist" },
+      { "name": "xc", "url": "https://github.com/s2mr/xc" },
+      { "name": "xcbeautify", "url": "https://github.com/cpisciotta/xcbeautify" },
+      { "name": "XcodeGen", "url": "https://github.com/yonaskolb/XcodeGen" },
+      { "name": "xcodeproj", "url": "https://github.com/tuist/xcodeproj" }
+    ]
+  }
+]

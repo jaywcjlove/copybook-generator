@@ -23,17 +23,17 @@
 
 ### Diverse Types
 
-■ Chinese Character Copybook: Suitable for Chinese writing practice, helping users master the correct writing method of Chinese characters.  
-■ Chinese Stroke Practice Copybook: Provides detailed stroke order of Chinese characters, helping users understand the correct writing sequence of each character and improve writing accuracy.  
-■ Alphabet Copybook: Suitable for English writing practice, helping users improve their ability to write English letters.  
-■ Pen Control Practice Copybook: Specially designed for writing beginners, helping users practice grip posture and writing pressure to enhance writing control.  
+■ **Chinese Character Copybook**: Suitable for Chinese writing practice, helping users master the correct writing method of Chinese characters.  
+■ **Chinese Stroke Practice Copybook**: Provides detailed stroke order of Chinese characters, helping users understand the correct writing sequence of each character and improve writing accuracy.  
+■ **Alphabet Copybook**: Suitable for English writing practice, helping users improve their ability to write English letters.  
+■ **Pen Control Practice Copybook**: Specially designed for writing beginners, helping users practice grip posture and writing pressure to enhance writing control.  
 
 ### Customization Options
 
-■ Fonts and Grids: Choose different fonts and grid styles to meet various writing practice needs.  
-■ Size: Adjust the font size of the copybook to suit users of different age groups and learning stages.  
-■ Stroke Order: Provides the stroke order of Chinese characters, helping users understand the correct writing sequence of each character.  
-■ Color: Choose the color of the copybook font to add fun and visual effects to the practice.  
+■ **Fonts and Grids**: Choose different fonts and grid styles to meet various writing practice needs.  
+■ **Size**: Adjust the font size of the copybook to suit users of different age groups and learning stages.  
+■ **Stroke Order**: Provides the stroke order of Chinese characters, helping users understand the correct writing sequence of each character.  
+■ **Color**: Choose the color of the copybook font to add fun and visual effects to the practice.  
 
 
 ![Copybook Generator Screenshot 2](./assets/screenshots-2.png)

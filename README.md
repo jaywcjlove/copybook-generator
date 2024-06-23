@@ -64,6 +64,7 @@
 Copybook Generator aims to help users easily generate copybook templates that meet their individual needs through flexible customization options and diverse functions, enhancing their writing skills. Whether you are a beginner or a writing enthusiast, you can benefit from it and enjoy the fun of writing practice.
 
 <!--idoc:config:
+site: Copybook Generator
 title: Copybook Generator is a powerful copybook generation tool designed to meet the writing practice needs of different users - 
 keywords: Copybook Generator, Chinese Practice, Alphabet Practice, Stroke Order, Custom Copybooks
 -->

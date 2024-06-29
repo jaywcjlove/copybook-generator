@@ -19,7 +19,7 @@ jobs:
           cat > idoc.yml << EOF
           site: "宝宝字帖"
           description: 一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计，并且会根据我自己宝宝的成长持续添加内容
-          keywords: 宝宝字帖, 字帖生成, 汉字练习, 英文字母练习, 笔顺描写, 书写练习, 自定义字帖, 教育工具, 笔控练习, 儿童书法
+          keywords: 宝宝字帖,汉字字帖,字帖生成,汉字练习,英文字母练习,笔顺描写,书写练习,自定义字帖,教育工具,笔控练习,儿童书法
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/copybook-generator

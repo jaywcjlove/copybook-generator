@@ -1,7 +1,9 @@
 <div align="center">
 	<br />
 	<br />
+  <a href="https://wangchujiang.com/copybook-generator/">
 	<img src="./assets/logo.png" alt="Copybook Generator LOGO" width="160" height="160">
+  </a>
 	<h1>Copybook Generator</h1>
   <!--rehype:style=border: 0;-->
   <p>

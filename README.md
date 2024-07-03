@@ -25,14 +25,14 @@
 
 ### Diverse Types
 
-■ **Chinese Character Copybook**: Suitable for practicing Chinese writing, helping users master the correct writing methods of Chinese characters.
-■ **Chinese Character Stroke Order Copybook**: Provides detailed stroke orders for Chinese characters, helping users understand the correct writing sequence of each character and improve writing accuracy.
-■ **Pinyin Letter Copybook**: Suitable for children to practice writing Pinyin letters, helping them write Pinyin correctly.
-■ **Chinese Name Copybook**: Suitable for children to practice writing their Chinese names, helping them write their names correctly.
-■ **English Alphabet Copybook**: Suitable for practicing English writing, helping users improve their English letter writing skills.
-■ **Pen Control Practice Copybook**: Designed for beginners in writing, helping users practice pen holding posture and writing pressure, improving writing control.
-■ **Number Copybook**: Suitable for children to practice writing numbers, helping them improve their number writing skills.
-■ **Stroke Order Query**: Provides the correct stroke order for Chinese characters, helping users understand and master the stroke order of Chinese characters.
+■ **Chinese Character Copybook**: Suitable for practicing Chinese writing, helping users master the correct writing methods of Chinese characters.  
+■ **Chinese Character Stroke Order Copybook**: Provides detailed stroke orders for Chinese characters, helping users understand the correct writing sequence of each character and improve writing accuracy.  
+■ **Pinyin Letter Copybook**: Suitable for children to practice writing Pinyin letters, helping them write Pinyin correctly.  
+■ **Chinese Name Copybook**: Suitable for children to practice writing their Chinese names, helping them write their names correctly.  
+■ **English Alphabet Copybook**: Suitable for practicing English writing, helping users improve their English letter writing skills.  
+■ **Pen Control Practice Copybook**: Designed for beginners in writing, helping users practice pen holding posture and writing pressure, improving writing control.  
+■ **Number Copybook**: Suitable for children to practice writing numbers, helping them improve their number writing skills.  
+■ **Stroke Order Query**: Provides the correct stroke order for Chinese characters, helping users understand and master the stroke order of Chinese characters.  
 
 ### Customization Options
 

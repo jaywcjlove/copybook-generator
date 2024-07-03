@@ -7,7 +7,7 @@
 	<h1>Copybook Generator</h1>
   <!--rehype:style=border: 0;-->
   <p>
-		<a href="./README.zh.md">中文</a> • 
+		<a href="./README-zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>

@@ -51,7 +51,7 @@ jobs:
               url: https://wangchujiang.com/#/about
               target: __blank
           sideEffectFiles:
-            - README.zh.md
+            - README-zh.md
             - terms-of-service.md
             - terms-of-service.zh.md
             - privacy-policy.md

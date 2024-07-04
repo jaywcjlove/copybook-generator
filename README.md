@@ -9,6 +9,7 @@
   <p>
 		<a href="./README-zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
+		<a href="#font-download">Fonts</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
   <p>
@@ -47,9 +48,24 @@
 ![Copybook Generator Screenshot 3](./assets/screenshots-3.png)
 
 ![Copybook Generator Screenshot 4](./assets/screenshots-4.png)
+
 ![Copybook Generator Screenshot 5](./assets/screenshots-5.png)
+
 ![Copybook Generator Screenshot 6](./assets/screenshots-6.png)
+
 ![Copybook Generator Screenshot 7](./assets/screenshots-7.png)
+
+## Font Download
+
+You can download the required fonts from the websites below, then restart `Copybook Generator` and select the desired font.
+
+- [Ziti Tianxia](https://www.fonts.net.cn/) includes `Chinese` and `English` fonts
+- [ChinaZ Fonts](https://font.chinaz.com/) includes `Chinese` and `English` fonts
+- [Google Fonts](https://fonts.google.com/) includes `Chinese` and `English` fonts
+- [Font Share](https://www.fontshare.com/) includes `English` fonts
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [Font Meme](https://fontmeme.com/ziti/chinese-fonts/)
+- [Fontesk](https://fontesk.com/fonts/)
 
 ## Frequently Asked Questions
 

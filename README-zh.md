@@ -6,6 +6,7 @@
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.md">English</a> • 
+		<a href="#字体下载">字体</a> • 
 		<a href="#常见问题解答">常见问题</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
@@ -45,13 +46,28 @@
 ![宝宝字帖 截图 3](./assets/screenshots-3-cn.png)
 
 ![宝宝字帖 截图 4](./assets/screenshots-4-cn.png)
+
 ![宝宝字帖 截图 5](./assets/screenshots-5-cn.png)
+
 ![宝宝字帖 截图 6](./assets/screenshots-6-cn.png)
+
 ![宝宝字帖 截图 7](./assets/screenshots-7-cn.png)
+
+## 字体下载
+
+可通过下面字体网站，下载需要的字体，然后重启字体宝宝，选择需要的字体。
+
+- [字体天下](https://www.fonts.net.cn/) 包含 `中文` `英文` 字体
+- [ChinaZ Fonts](https://font.chinaz.com/) 包含 `中文` `英文` 字体  q
+- [Google Fonts](https://fonts.google.com/) 包含 `中文` `英文` 字体
+- [Font Share](https://www.fontshare.com/) 包含 `英文` 字体
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [Font Meme](https://fontmeme.com/ziti/chinese-fonts/)
+- [Fontesk](https://fontesk.com/fonts/)
 
 ## 常见问题解答
 
-## 使用方法
+### 使用方法
 
 1. 选择字帖类型：选择需要生成的字帖类型（汉字、汉字笔顺描写、英文字母或笔控练习）。
 2. 自定义设置：根据需要设置字体、格子样式、字体大小、笔顺显示和颜色。

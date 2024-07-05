@@ -18,6 +18,12 @@
   </p>
 </div>
 
+<div align="center">
+
+minimum OS requirement: `macOS 14.0`
+
+</div>
+
 "Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users. It continuously adds content based on my own baby's growth. The copybook offers various types of copybook generation functions, including Chinese character copybooks, Chinese stroke practice copybooks, alphabet copybooks, and pen control practice copybooks. Users can customize the copybook templates with various parameters according to their needs for printing and use.
 
 ![Copybook Generator Screenshot 1](./assets/screenshots-1.png)

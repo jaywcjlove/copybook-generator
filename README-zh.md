@@ -63,6 +63,7 @@
 
 可通过下面字体网站，下载需要的字体，然后重启字体宝宝，选择需要的字体。
 
+- [字集](https://wordshub.github.io/free-font/) 包含 `中文` `英文` 字体
 - [字体天下](https://www.fonts.net.cn/) 包含 `中文` `英文` 字体
 - [ChinaZ Fonts](https://font.chinaz.com/) 包含 `中文` `英文` 字体
 - [Google Fonts](https://fonts.google.com/) 包含 `中文` `英文` 字体

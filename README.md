@@ -40,14 +40,14 @@ minimum OS requirement: `macOS 14.0`
 ■ **Pen Control Practice Copybook**: Designed for beginners in writing, helping users practice pen holding posture and writing pressure, improving writing control.  
 ■ **Number Copybook**: Suitable for children to practice writing numbers, helping them improve their number writing skills.  
 ■ **Stroke Order Query**: Provides the correct stroke order for Chinese characters, helping users understand and master the stroke order of Chinese characters.  
-■ **English Paragraph Copybook**
-■ **Number Comparison**
-■ **Add/Sub Operations Copyboo**
-■ **Mixed Add/Sub Copybook**
-■ **Multiplication Copybook**
-■ **Division Copybook**
-■ **Vertical Calculation Copybook**
-■ **Learn Clocks Copybook**
+■ **English Paragraph Copybook**  
+■ **Number Comparison**  
+■ **Add/Sub Operations Copyboo**  
+■ **Mixed Add/Sub Copybook**  
+■ **Multiplication Copybook**  
+■ **Division Copybook**  
+■ **Vertical Calculation Copybook**  
+■ **Learn Clocks Copybook**  
 
 ### Customization Options
 

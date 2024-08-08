@@ -40,6 +40,14 @@ minimum OS requirement: `macOS 14.0`
 ■ **Pen Control Practice Copybook**: Designed for beginners in writing, helping users practice pen holding posture and writing pressure, improving writing control.  
 ■ **Number Copybook**: Suitable for children to practice writing numbers, helping them improve their number writing skills.  
 ■ **Stroke Order Query**: Provides the correct stroke order for Chinese characters, helping users understand and master the stroke order of Chinese characters.  
+■ **English Paragraph Copybook**
+■ **Number Comparison**
+■ **Add/Sub Operations Copyboo**
+■ **Mixed Add/Sub Copybook**
+■ **Multiplication Copybook**
+■ **Division Copybook**
+■ **Vertical Calculation Copybook**
+■ **Learn Clocks Copybook**
 
 ### Customization Options
 
@@ -61,11 +69,13 @@ minimum OS requirement: `macOS 14.0`
 
 ![Copybook Generator Screenshot 7](./assets/screenshots-7.png)
 
+![Copybook Generator Screenshot 8](./assets/screenshots-8.png)
+
 ## Font Download
 
 You can download the required fonts from the websites below, then restart `Copybook Generator` and select the desired font.
 
-- [Free Font](https://wordshub.github.io/free-font/) includes `Chinese` and `English` fonts
+- [`Free Font`](https://wordshub.github.io/free-font/) includes `Chinese` and `English` fonts
 - [Ziti Tianxia](https://www.fonts.net.cn/) includes `Chinese` and `English` fonts
 - [ChinaZ Fonts](https://font.chinaz.com/) includes `Chinese` and `English` fonts
 - [Google Fonts](https://fonts.google.com/) includes `Chinese` and `English` fonts

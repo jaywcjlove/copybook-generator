@@ -75,7 +75,7 @@ minimum OS requirement: `macOS 14.0`
 
 You can download the required fonts from the websites below, then restart `Copybook Generator` and select the desired font.
 
-- [`Free Font`](https://wordshub.github.io/free-font/) includes `Chinese` and `English` fonts
+- [`Free Font`](https://github.com/jaywcjlove/free-font) includes `Chinese` and `English` fonts
 - [Ziti Tianxia](https://www.fonts.net.cn/) includes `Chinese` and `English` fonts
 - [ChinaZ Fonts](https://font.chinaz.com/) includes `Chinese` and `English` fonts
 - [Google Fonts](https://fonts.google.com/) includes `Chinese` and `English` fonts

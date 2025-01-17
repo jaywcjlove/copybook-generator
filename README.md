@@ -1,3 +1,9 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> Declaration: This project is not an open-source project. The repository serves as the official website, used to collect issues and user demands. This is done to save costs, because without an official website, the application cannot pass the review.
+<!--idoc:ignore:end-->
+
+
 <div align="center">
 	<br />
 	<br />

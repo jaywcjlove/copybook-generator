@@ -1,3 +1,8 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> 声明：此项目并非开源项目，仓库作为官方网站，用于收集问题和用户需求。这样做是为了节省成本，因为没有官网，应用无法通过审核。
+<!--idoc:ignore:end-->
+
 <div align="center">
 	<br />
 	<br />

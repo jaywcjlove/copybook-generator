@@ -10,7 +10,7 @@
 	<h1>宝宝字帖</h1>
   <!--rehype:style=border: 0;-->
   <p>
-		<a href="./README.md">English</a> • 
+		<a href="README.md">English</a> • 
 		<a href="#字体下载">字体</a> • 
 		<a href="#常见问题解答">常见问题</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>

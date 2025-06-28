@@ -69,6 +69,8 @@ jobs:
           sideEffectFiles:
             - README.md
             - README.zh.md
+            - CHANGELOG.md
+            - CHANGELOG.zh.md
             - feedback.md
             - feedback.zh.md
             - terms-of-service.md

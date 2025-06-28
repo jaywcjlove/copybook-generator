@@ -1,5 +1,7 @@
 https://wangchujiang.com/copybook-generator/index.html
 https://wangchujiang.com/copybook-generator/index.zh.html
+https://wangchujiang.com/copybook-generator/CHANGELOG.html
+https://wangchujiang.com/copybook-generator/CHANGELOG.zh.html
 https://wangchujiang.com/copybook-generator/feedback.html
 https://wangchujiang.com/copybook-generator/feedback.zh.html
 https://wangchujiang.com/copybook-generator/terms-of-service.html

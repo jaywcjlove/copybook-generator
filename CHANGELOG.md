@@ -9,6 +9,13 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/copybook-generator/id6503953628" title="Copybook Generator AppStore"><img alt="Copybook Generator AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.10.0)
+
+1. feat: Add support for exporting PNG images and PDF files.
+2. feat: Update main menu.
+3. feat: Update color picker.
+4. fix: Update layout on subscription page.
+
 ## [v1.9.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.9.0)
 
 1. fix: resolve app errors on macOS 15

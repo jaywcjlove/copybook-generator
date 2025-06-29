@@ -10,6 +10,13 @@
 </a>
 
 
+## [v1.10.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.10.0)
+
+1. 新功能：新增导出 PNG 图片和 PDF 文件的功能。
+2. 新功能：更新主菜单。
+3. 新功能：更新颜色选择器。
+4. 修复：优化订阅页面的布局显示。
+
 ## [v1.9.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.9.0)
 
 1. 修复：解决 macOS 15 上的应用错误

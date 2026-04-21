@@ -17,7 +17,7 @@
 	<a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/宝宝字帖/id6503953628" title="宝宝字帖 AppStore"><img alt="宝宝字帖 AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6503953628" title="宝宝字帖 AppStore"><img alt="宝宝字帖 AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>

@@ -25,6 +25,6 @@ jobs:
           version: ${{ env.VERSION }}
           release: true
           body: |
-            <a target="_blank" href="https://apps.apple.com/app/copybook-generator/6503953628" title="Quick RSS AppStore">
+            <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6503953628" title="Quick RSS AppStore">
             <img alt="Copybook Generator AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
             </a>

@@ -8,10 +8,10 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           registry-url: 'https://registry.npmjs.org'
 
       - name: Create Tag
@@ -47,11 +47,11 @@ jobs:
             - <meta name="author" content="Kenny Wong">
             - <meta property="og:site_name" content="<%= site %>">
             - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
-            - <meta property="og:image" content="<%=homepage%>assets/logo.png">
+            - <meta property="og:image" content="<%=homepage%>assets/social-preview.png">
             - <meta property="og:type" content="application">
             - <meta property="og:title" content="<%= site %>">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-1.png">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
@@ -88,6 +88,7 @@ jobs:
 
       - run: npm install idoc@1 -g
       - run: idoc
+      - run: cp -rp assets/social-preview.png dist/assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

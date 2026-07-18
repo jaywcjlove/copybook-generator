@@ -9,6 +9,15 @@ Changelog
 <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6503953628" title="Copybook Generator AppStore"><img alt="Copybook Generator AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
+
+1. feat: add configurable exercise count for math and clock practice sheets
+2. feat: add English word copybook
+3. feat: add default practice text for Chinese character copybooks
+4. feat: expand localization with additional language support
+5. feat: support multi-page copybook preview and export
+6. refactor: replace PNG export with multi-page PDF export
+
 ## [v1.10.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.10.0)
 
 1. feat: Add support for exporting PNG images and PDF files.

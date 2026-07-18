@@ -10,6 +10,15 @@
 </a>
 
 
+## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
+
+1. 新增：支持自定义数学与时钟练习字帖的题目数量 
+2. 新增：英文单词字帖 
+3. 新增：中文汉字字帖内置默认练习内容 
+4. 新增：扩展支持更多语言本地化 
+5. 新增：支持多页字帖预览与导出
+6. 重构：移除 PNG 导出，改为支持多页 PDF 导出 
+
 ## [v1.10.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.10.0)
 
 1. 新功能：新增导出 PNG 图片和 PDF 文件的功能。

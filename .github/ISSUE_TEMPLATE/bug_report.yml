@@ -35,8 +35,10 @@ body:
       label: "💻 Desktop"
       description: Your operating system and version.
       options:
-        - macOS 15.0 (Sequoia)
-        - macOS 14.0 (Sonoma)
+        - macOS 27.x (Golden Gate)
+        - macOS 26.x (Tahoe)
+        - macOS 15.x (Sequoia)
+        - macOS 14.x (Sonoma)
       default: 0
     validations:
       required: true

@@ -37,8 +37,10 @@ body:
       label: "💻 桌面"
       description: 您的操作系统和版本。
       options:
-        - macOS 15.0 (Sequoia)
-        - macOS 14.0 (Sonoma)
+        - macOS 27.x (Golden Gate)
+        - macOS 26.x (Tahoe)
+        - macOS 15.x (Sequoia)
+        - macOS 14.x (Sonoma)
       default: 0
     validations:
       required: true

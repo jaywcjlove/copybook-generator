@@ -9,6 +9,11 @@ Changelog
 <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6503953628" title="Copybook Generator AppStore"><img alt="Copybook Generator AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.12.0)
+
+1. feat: add customizable watermark with free/pro access controls
+2. feat: generate one name-copybook page per name line
+
 ## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
 
 1. feat: add configurable exercise count for math and clock practice sheets

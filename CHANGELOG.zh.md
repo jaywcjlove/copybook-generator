@@ -10,6 +10,11 @@
 </a>
 
 
+## [v1.12.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.12.0)
+
+1. 新功能：新增可自定义水印功能，区分免费版与专业版权限管控
+2. 新功能：每一行姓名单独生成一页姓名练字帖
+
 ## [v1.11.0](https://github.com/jaywcjlove/mousio/releases/tag/v1.11.0)
 
 1. 新增：支持自定义数学与时钟练习字帖的题目数量 
